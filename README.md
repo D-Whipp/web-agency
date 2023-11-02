@@ -2,9 +2,15 @@
 
 ## Frontend Challenge
 
+![app image](./assets/images/app-image.png)
+
 ## Description
 
 This was a coding challenge presented by [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) within her [Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+
+## Challenge Instructions
+
+The instructions for this challenge were purposefully vague; allowing me more freedom with the solution. I was given a goal and then left to my own devices when coming up with a solution.
 
 ## About
 
